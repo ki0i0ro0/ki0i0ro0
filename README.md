@@ -3,6 +3,8 @@
 ## skills
 
 ## Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki0i0ro0&layout=compact)](https://github.com/ki0i0ro0/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ki0i0ro0)](https://github.com/ki0i0ro0/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ki0i0ro0)](https://github.com/ki0i0ro0/github-profile-trophy)
