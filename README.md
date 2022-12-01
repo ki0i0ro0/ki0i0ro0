@@ -5,8 +5,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,svg,react,vue,graphql,nextjs,nuxtjs,materialui,vite,nodejs,jest,express,prisma,nginx,dynamodb,postgres,mysql,redis,git,docker,github,gitlab,linux,md,vscode,aws,firebase,vercel,heroku,cs,dotnet,powershell,visualstudio)](https://skillicons.dev)
 
 ## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki0i0ro0&layout=compact)](https://github.com/ki0i0ro0/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ki0i0ro0)](https://github.com/ki0i0ro0/github-readme-stats)
+<a href="https://github.com/ki0i0ro0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki0i0ro0&layout=compact" />
+</a>
+<a href="https://github.com/ki0i0ro0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ki0i0ro0" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ki0i0ro0)](https://github.com/ki0i0ro0/github-profile-trophy)
 
