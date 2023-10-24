@@ -2,7 +2,7 @@
 
 ## skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vue,graphql,nextjs,nuxtjs,materialui,vite,webpack,rollupjs,nodejs,jest,express,postman,prisma,nginx,dynamodb,postgres,mysql,redis,lua,docker,git,github,githubactions,gitlab,linux,md,vscode,aws,gcp,azure,firebase,vercel,heroku,cs,dotnet,powershell,visualstudio,php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,graphql,nextjs,nuxtjs,nodejs,dynamodb,postgres,mysql,redis,docker,aws,gcp,firebase,dotnet)](https://skillicons.dev)
 
 ## Status
 <a href="https://github.com/ki0i0ro0/github-readme-stats">
