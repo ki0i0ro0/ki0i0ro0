@@ -8,8 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ki0i0ro0" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ki0i0ro0)](https://github.com/ki0i0ro0/github-profile-trophy)
-
 <!--
 **ki0i0ro0/ki0i0ro0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
